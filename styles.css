@@ -1,12 +1,10 @@
 .primary {
     color: rgb(0, 150, 200);
-    background-color: rgb(175, 175, 175);
     text-align: center;
     font-size: 42px;
 }
 .secondary, .direct {
     color: rgb(0, 150, 50);
-    background-color: rgb(175, 175, 175);
     font-weight: bolder;
 }
 .primary, .secondary {
@@ -24,4 +22,7 @@ img {
 .home {
     color:darkviolet;
     font-size: 12px;
+}
+* {
+    background-color: rgb(175, 175, 175);
 }
