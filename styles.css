@@ -1,0 +1,27 @@
+.primary {
+    color: rgb(0, 150, 200);
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    font-size: 42px;
+}
+.secondary, .direct {
+    color: rgb(0, 150, 50);
+    background-color: rgb(175, 175, 175);
+    font-weight: bolder;
+}
+.primary, .secondary {
+    font-family: "Brush Script MT", "Franklin Gothic Bold";
+}
+img {
+    height: auto;
+    width: 400px;
+}
+.blurb {
+    color:rgb(180, 25, 25);
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.home {
+    color:darkviolet;
+    font-size: 12px;
+}
